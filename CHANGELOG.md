@@ -9,7 +9,7 @@
 * Changed Curse stat from 3 to 2.
 
 ## Version 1.4.1:
-* Changed Damage stat from 0.8 to 0.745. _This means Cog of Battle will now boost the damage stat to approximately 1.3._
+* Changed Damage stat from 0.8 to 0.745. _Cog of Battle will boost the damage stat to approximately 1.3._
 
 ## Version 1.4.0:
 * Added new weapon Phoenix (Infinite) to loadout.
