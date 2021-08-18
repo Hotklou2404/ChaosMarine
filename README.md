@@ -22,7 +22,7 @@ Notice: It will also affect the color of the helmets that fall off all Marine-ba
 
 ## Additional Notes
 * What's the difference between the normal version and the alternative version of the mod? The only real difference is that the alternative version has a scar over his one eye, while the normal version does not. This is purely cosmetic, and has no impact on gameplay whatsovever.
-* Chaos Marine is in many ways just a reskinned Marine with altered stats and a different starting loadout. This is partly because he is themed around being an alternate reality version of the Marine. It is also because I am still pretty crap at pixel art and would not yet be able to make a decent-looking character from scratch.
+* Chaos Marine is in many ways just a reskinned Marine with altered stats and a different starting loadout. This is partly because he is themed around being an alternate reality version of the Marine. It is also because I am still pretty crap at pixel art and am not yet able to make a decent looking character from scratch.
 
 ## Credits
 * Thank you Shob for your support and assistance, this custom character would not be here today if it were not for you. You inspired me to make something real out of it.
