@@ -1,5 +1,12 @@
 # Changelog
 
+## Version 1.6.1:
+* Changed Accuracy stat from 2.5 to 2.
+* Changed AmmoCapacityMultiplier stat from 1 to 0.75.
+* Changed Damage stat from 0.76 to 0.86.
+* Changed DamageToBosses stat from 1 to 0.86.
+* ReloadSpeed stat changed from 1.33 to 1.30.
+
 ## Version 1.6.0:
 * Removed Rusty Casing from loadout.
 * Changed Damage stat from 0.745 to 0.76.
