@@ -25,9 +25,8 @@ Notice: It will also affect the color of the helmets that fall off all Marine-ba
 * Chaos Marine is in many ways just a reskinned Marine with altered stats and a different starting loadout. This is partly because he is themed around being an alternate reality version of the Marine. It is also because I am still pretty crap at pixel art and would not yet be able to make a decent-looking character from scratch.
 * Fun fact: His name, Kane, means "warror" or "fighter". And his surname, Faustus, means "auspicious" or "lucky".
 
-
 ## Credits
 * Thank you Shob for your support and assistance, this custom character would not be here today if it were not for you. You inspired me to make something real out of it.
 * Thank you Ysterklou. It was you who came up with the original idea for this character so long ago and let me use it.
 * Many thanks to all the people who have been giving me feedback and suggestions. You guys have helped me a LOT with fine-tuning this custom character's stats and loadout.
-* And lastly, a big thanks to everyone who have been playing this custom character mod! I hope you all enjoy playing him as much as I do.
+* And lastly, a big thanks to everyone who have been playing this custom character mod! I hope you all enjoy playing it as much as I enjoyed making it.
