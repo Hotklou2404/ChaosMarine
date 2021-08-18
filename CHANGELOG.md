@@ -7,7 +7,7 @@
 * Changed Curse stat from 2 to 3.
 * Changed ReloadSpeed stat from 1.35 to 1.33.
 * Changed AdditionalClipCapacityMultiplier stat from 0.8 to 1.
-* Condensed the "normal" and "alternative" versions of the mod into one and opted to keep the one with the scar.
+* Removed the "normal" version of the mod and renamed the "alternative" one so there's only 1 file now.
 
 ## Version 1.5.0:
 * Added new optional Addon file - a retexture of the animation that shows the Marine's helmet falling off the character's head when they lose their armor. This animation now fits the color scheme of Chaos Marine's outfit.
