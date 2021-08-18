@@ -1,6 +1,9 @@
 # ChaosMarine
 A mod for Enter The Gungeon that adds a new custom character for you to play with.
 
+## Features
+For more information about the loadout and stats of the Chaos Marine, tips and tricks for playing him and some lore about where he came from, check out the [wiki](https://github.com/Hotklou2404/ChaosMarine/wiki).
+
 ## Installation
 1. If you haven't done so already, download and install the latest version of [ModTheGungeon](https://github.com/ModTheGungeon/ETGMod.Installer/releases/latest/download/ETGMod.Installer.exe).
 2. Run Enter The Gungeon once. It should generate a subfolder in your ETG install directory called Mods.
@@ -17,5 +20,14 @@ What is it and what does it do? Usually no matter what your character looks like
 
 Notice: It will also affect the color of the helmets that fall off all Marine-based characters's heads, whether you be Chaos Marine, the actual vanilla Marine or any other custom character with the Marine as their base. If you have this installed while you are playing as Chaos Marine, it will look perfect. But if you play as any other Marine-based custom character, or as the vanilla Marine himself, it will probably look weird and out-of-place.
 
-## Features
-For more information about the loadout and stats of the Chaos Marine, tips and tricks for playing him and some lore about where he came from, check out the [wiki](https://github.com/Hotklou2404/ChaosMarine/wiki).
+## Additional Notes
+* What's the difference between the normal version and the alternative version of the mod? The only real difference is that the alternative version has a scar over his one eye, while the normal version does not. This is purely cosmetic, and has no impact on gameplay whatsovever.
+* Chaos Marine is in many ways just a reskinned Marine with altered stats and a different starting loadout. This is partly because he is themed around being an alternate reality version of the Marine. It is also because I am still pretty crap at pixel art and would not yet be able to make a decent-looking character from scratch.
+* Fun fact: His name, Kane, means "warror" or "fighter". And his surname, Faustus, means "auspicious" or "lucky".
+
+
+## Credits
+* Thank you Shob for your support and assistance, this custom character would not be here today if it were not for you. You inspired me to make something real out of it.
+* Thank you Ysterklou. It was you who came up with the original idea for this character so long ago and let me use it.
+* Many thanks to all the people who have been giving me feedback and suggestions. You guys have helped me a LOT with fine-tuning this custom character's stats and loadout.
+* And lastly, a big thanks to everyone who have been playing this custom character mod! I hope you all enjoy playing him as much as I do.
