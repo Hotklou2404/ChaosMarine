@@ -6,6 +6,7 @@
 * Changed Damage stat from 0.76 to 0.86.
 * Changed DamageToBosses stat from 1 to 0.86.
 * ReloadSpeed stat changed from 1.33 to 1.30.
+* Removed nickname Ruby Marine.
 
 ## Version 1.6.0:
 * Removed Rusty Casing from loadout.
@@ -27,12 +28,12 @@
 * Added new weapon Phoenix (Infinite) to loadout.
 * Changed AdditionalClipCapacityMultiplier stat from 1 to 0.8.
 * Changed Damage stat from 1 to 0.8.
-* Added new nickname, Hand of the Emperor.
+* Added new nickname Hand of the Emperor.
 
 ## Version 1.3.0:
 * Added new punchout sprites and punchout facecard. _All the sprites related to the Punchout minigame are now finally done!_
 * Small changes and fixes to various other sprites.
-* Added new nickname, Kane Faustus.
+* Added new nickname Kane Faustus.
 
 ## Version 1.2.0:
 * Added new passive item Rusty Casing (from Nevernamed's Items) to loadout.
