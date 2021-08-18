@@ -18,4 +18,4 @@ What is it and what does it do? Usually no matter what your character looks like
 Notice: It will also affect the color of the helmets that fall off all Marine-based characters's heads, whether you be Chaos Marine, the actual vanilla Marine or any other custom character with the Marine as their base. If you have this installed while you are playing as Chaos Marine, it will look perfect. But if you play as any other Marine-based custom character, or as the vanilla Marine himself, it will probably look weird and out-of-place.
 
 ## Features
-For more information about the loadout and stats of the Chaos Marine, tips and tricks and some lore about where he came from, check out the [wiki](https://github.com/Hotklou2404/ChaosMarine/wiki).
+For more information about the loadout and stats of the Chaos Marine, tips and tricks for playing him and some lore about where he came from, check out the [wiki](https://github.com/Hotklou2404/ChaosMarine/wiki).
