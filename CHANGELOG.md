@@ -2,7 +2,10 @@
 
 ## Version 1.6.0:
 * Removed Rusty Casing from loadout.
+* Changed Damage stat from 0.745 to 0.76
 * Changed Health stat from 1 to 2.
+* Changed Curse stat from 2 to 3.
+* Changed AdditionalClipCapacityMultiplier stat from 0.8 to 1.
 
 ## Version 1.5.0:
 * Added new optional Addon file - a retexture of the animation that shows the Marine's helmet falling off the character's head when they lose their armor. This animation now fits the color scheme of Chaos Marine's outfit.
