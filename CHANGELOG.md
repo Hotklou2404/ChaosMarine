@@ -1,7 +1,7 @@
 # Changelog
 
 ## Version 1.6.1:
-* Changed Accuracy stat from 2.5 to 3.
+* Changed Accuracy stat from 2.5 to 1.5.
 * Changed AmmoCapacityMultiplier stat from 1 to 0.80.
 * Changed DamageToBosses stat from 1 to 0.76.
 * ReloadSpeed stat changed from 1.33 to 1.20.
