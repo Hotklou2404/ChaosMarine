@@ -1,5 +1,8 @@
 # Changelog
 
+## Version 1.7.1:
+* Fixed incorrect sprites that were included in previous version and improved them.
+
 ## Version 1.7.0:
 * Changes to foyercard, bosscard, facecard and map icon sprites.
 * Changed AmmoCapacityMultiplier stat from 0.8 to 1.
