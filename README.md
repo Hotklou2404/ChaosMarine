@@ -10,7 +10,7 @@ For more information about the loadout and stats of the Chaos Marine, tips and t
 3. If you haven't done so already, download the latest version of [Kyle's Custom Characters Mod](https://modworkshop.net/mod/24802) and extract the contents of the `.zip` into the Mods folder in your ETG install directory.
 5. Delete the `mods.txt` file inside the Mods folder and run Enter The Gungeon once. It should generate a subfolder in your ETG install directory called CustomCharacterData.
 6. If you haven't done so already, download the latest version of [Retrash's Custom Items Collection](https://modworkshop.net/mod/25197) and extract the contents of the `.zip` into the Mods folder in your ETG install directory.
-7. Download the latest version of Chaos Marine and extract the contents of the `.zip` into the CustomCharacterData folder in your ETG install directory.
+7. Download the latest version of [Chaos Marine](https://github.com/Hotklou2404/ChaosMarine/releases/latest) and extract the contents of the `.zip` into the CustomCharacterData folder in your ETG install directory.
 8. Lastly, delete the `mods.txt` file inside the Mods folder again and then you're good to go.
 
 ### Falling Helmet Retexture Addon
