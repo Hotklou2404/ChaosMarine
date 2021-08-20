@@ -1,5 +1,8 @@
 # Changelog
 
+## [UNRELEASED] Version 1.6.2:
+* Changed AmmoCapacityMultiplier stat from 0.8 to 1.
+
 ## Version 1.6.1:
 * Removed nickname Ruby Marine.
 * Changed Accuracy stat from 2.5 to 1.5.
