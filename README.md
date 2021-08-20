@@ -1,5 +1,7 @@
-# ChaosMarine
-A mod for Enter The Gungeon that adds a new custom character for you to play with.
+# Chaos Marine
+This is a mod for Enter The Gungeon that adds a new custom character for you to play with.
+
+Kane Faustus is a marine from an alternate reality and he has come to conquer the Gungeon of this universe for his leader, Emperor Hegemus IV.
 
 ## Features
 For more information about the loadout and stats of the Chaos Marine, tips and tricks for playing him and some lore about where he came from, check out the [wiki](https://github.com/Hotklou2404/ChaosMarine/wiki).
